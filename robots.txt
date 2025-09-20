@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://www.tvland4k.com/sitemap.xml
