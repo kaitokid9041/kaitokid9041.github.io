@@ -6,15 +6,16 @@
   <url><loc>https://www.tvland4k.com/live-tv</loc><lastmod>2025-09-20</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
   <url><loc>https://www.tvland4k.com/movies</loc><lastmod>2025-09-20</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
   <url><loc>https://www.tvland4k.com/series</loc><lastmod>2025-09-20</lastmod><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.tvland4k.com/channels</loc><lastmod>2025-09-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.tvland4k.com/faq</loc><lastmod>2025-09-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.tvland4k.com/blog</loc><lastmod>2025-09-20</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
-  <!-- Legal pages -->
+  <!-- Legal / trust -->
   <url><loc>https://www.tvland4k.com/legal/terms</loc><lastmod>2025-09-20</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.tvland4k.com/legal/privacy</loc><lastmod>2025-09-20</lastmod><changefreq>yearly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.tvland4k.com/legal/refunds</loc><lastmod>2025-09-20</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
 
-  <!-- Blog posts -->
+  <!-- Blog posts (10) -->
   <url><loc>https://www.tvland4k.com/blog/choose-iptv-plan-australia</loc><lastmod>2025-09-20</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.tvland4k.com/blog/smart-tv-iptv-setup-australia</loc><lastmod>2025-09-20</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.tvland4k.com/blog/internet-speed-for-iptv-4k-australia</loc><lastmod>2025-09-20</lastmod><changefreq>yearly</changefreq><priority>0.7</priority></url>
