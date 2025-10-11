@@ -1,178 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- ===== Main pages ===== -->
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Main pages -->
   <url>
     <loc>https://www.tvland4k.com/</loc>
-    <lastmod>2025-10-03</lastmod>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.00</priority>
+    <priority>1.0</priority>
   </url>
+
   <url>
     <loc>https://www.tvland4k.com/pricing</loc>
-    <lastmod>2025-10-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.90</priority>
-  </url>
-  <url>
-    <loc>https://www.tvland4k.com/plans</loc>
-    <lastmod>2025-10-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.90</priority>
-  </url>
-  <url>
-    <loc>https://www.tvland4k.com/live-tv</loc>
-    <lastmod>2025-10-03</lastmod>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
   </url>
+
+  <url>
+    <loc>https://www.tvland4k.com/plans</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.tvland4k.com/live-tv</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
   <url>
     <loc>https://www.tvland4k.com/movies</loc>
-    <lastmod>2025-10-03</lastmod>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
+
   <url>
     <loc>https://www.tvland4k.com/series</loc>
-    <lastmod>2025-10-03</lastmod>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
+
   <url>
     <loc>https://www.tvland4k.com/setup</loc>
-    <lastmod>2025-10-03</lastmod>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
+    <priority>0.8</priority>
   </url>
+
   <url>
     <loc>https://www.tvland4k.com/faq</loc>
-    <lastmod>2025-10-03</lastmod>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.80</priority>
+    <priority>0.8</priority>
   </url>
+
   <url>
     <loc>https://www.tvland4k.com/blog</loc>
-    <lastmod>2025-10-03</lastmod>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.80</priority>
+    <priority>0.9</priority>
   </url>
 
-  <!-- ===== Legal pages ===== -->
+  <!-- Legal pages -->
   <url>
     <loc>https://www.tvland4k.com/legal/terms</loc>
-    <lastmod>2025-10-03</lastmod>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.50</priority>
+    <priority>0.5</priority>
   </url>
+
   <url>
     <loc>https://www.tvland4k.com/legal/privacy</loc>
-    <lastmod>2025-10-03</lastmod>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.50</priority>
+    <priority>0.5</priority>
   </url>
+
   <url>
     <loc>https://www.tvland4k.com/legal/refunds</loc>
-    <lastmod>2025-10-03</lastmod>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.60</priority>
+    <priority>0.6</priority>
   </url>
 
-  <!-- ===== Your 10 existing blog posts ===== -->
+  <!-- Blog posts -->
   <url>
-    <loc>https://www.tvland4k.com/blog/choose-iptv-plan-australia</loc>
-    <lastmod>2025-10-03</lastmod>
+    <loc>https://www.tvland4k.com/blog/iptv-australia-ultimate-guide-2025</loc>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.95</priority>
   </url>
+
   <url>
-    <loc>https://www.tvland4k.com/blog/smart-tv-iptv-setup-australia</loc>
-    <lastmod>2025-10-03</lastmod>
+    <loc>https://www.tvland4k.com/blog/watch-afl-live-4k-without-foxtel</loc>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.9</priority>
   </url>
+
   <url>
-    <loc>https://www.tvland4k.com/blog/internet-speed-for-iptv-4k-australia</loc>
-    <lastmod>2025-10-03</lastmod>
+    <loc>https://www.tvland4k.com/blog/watch-nrl-live-4k-streaming-guide</loc>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.9</priority>
   </url>
+
   <url>
-    <loc>https://www.tvland4k.com/blog/monthly-vs-annual-iptv-australia</loc>
-    <lastmod>2025-10-03</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.65</priority>
+    <loc>https://www.tvland4k.com/blog/best-iptv-apps-smart-tv-android-tv-2025-au</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
+
   <url>
     <loc>https://www.tvland4k.com/blog/fix-iptv-buffering-australia</loc>
-    <lastmod>2025-10-03</lastmod>
+    <lastmod>2025-10-11</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.65</priority>
-  </url>
-  <url>
-    <loc>https://www.tvland4k.com/blog/is-iptv-legal-in-australia-explained</loc>
-    <lastmod>2025-10-03</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.60</priority>
-  </url>
-  <url>
-    <loc>https://www.tvland4k.com/blog/best-iptv-player-apps-android-tv-2025-au</loc>
-    <lastmod>2025-10-03</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.65</priority>
-  </url>
-  <url>
-    <loc>https://www.tvland4k.com/blog/parental-controls-safer-streaming-au</loc>
-    <lastmod>2025-10-03</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.60</priority>
-  </url>
-  <url>
-    <loc>https://www.tvland4k.com/blog/move-iptv-to-new-device</loc>
-    <lastmod>2025-10-03</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.55</priority>
-  </url>
-  <url>
-    <loc>https://www.tvland4k.com/blog/refunds-consumer-rights-digital-au</loc>
-    <lastmod>2025-10-03</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.55</priority>
-  </url>
-
-  <!-- ===== 6 new blog posts we created ===== -->
-  <url>
-    <loc>https://www.tvland4k.com/blog/afl-streaming-without-foxtel</loc>
-    <lastmod>2025-10-03</lastmod>
-    <changefreq>weekly</changefreq>
     <priority>0.85</priority>
   </url>
+
   <url>
-    <loc>https://www.tvland4k.com/blog/foxtel-alternatives-australia</loc>
-    <lastmod>2025-10-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.84</priority>
+    <loc>https://www.tvland4k.com/blog/internet-speed-for-4k-iptv-australia</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
   </url>
+
   <url>
-    <loc>https://www.tvland4k.com/blog/iptv-setup-firestick-smart-tv</loc>
-    <lastmod>2025-10-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.83</priority>
+    <loc>https://www.tvland4k.com/blog/is-iptv-legal-in-australia-2025</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://www.tvland4k.com/blog/best-iptv-for-sports-australia</loc>
-    <lastmod>2025-10-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.83</priority>
+    <loc>https://www.tvland4k.com/blog/monthly-vs-annual-iptv-plans-australia</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://www.tvland4k.com/blog/iptv-vs-kayo-vs-foxtel</loc>
-    <lastmod>2025-10-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.82</priority>
+    <loc>https://www.tvland4k.com/blog/parental-controls-kids-channels-iptv-au</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
   </url>
+
   <url>
-    <loc>https://www.tvland4k.com/blog/is-iptv-legal-in-australia</loc>
-    <lastmod>2025-10-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.82</priority>
+    <loc>https://www.tvland4k.com/blog/foxtel-alternative-iptv-comparison-2025</loc>
+    <lastmod>2025-10-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
   </url>
 </urlset>
