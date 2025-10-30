@@ -3,7 +3,7 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-  <!-- Main pages -->
+  <!-- Main pages - ONLY YOUR REAL CONTENT -->
   <url>
     <loc>https://www.tvland4k.com/</loc>
     <lastmod>2025-10-29</lastmod>
@@ -89,7 +89,7 @@
     <priority>0.6</priority>
   </url>
 
-  <!-- NEW: Best IPTV Provider Australia Blog Article - High Priority -->
+  <!-- NEW: Best IPTV Provider Australia Blog Article -->
   <url>
     <loc>https://www.tvland4k.com/blog/best-iptv-provider-australia</loc>
     <lastmod>2025-10-29</lastmod>
@@ -97,7 +97,7 @@
     <priority>1.0</priority>
   </url>
 
-  <!-- Blog posts -->
+  <!-- Your legitimate blog posts -->
   <url>
     <loc>https://www.tvland4k.com/blog/iptv-australia-ultimate-guide-2025</loc>
     <lastmod>2025-10-29</lastmod>
